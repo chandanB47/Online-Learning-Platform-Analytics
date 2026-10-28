@@ -1,74 +1,139 @@
-# Online Learning Platform Analytics — Power BI
+# Online Learning Platform Analytics --- Power BI
 
-**Status:** In progress  
-**Tools:** Power BI Desktop, Power Query, DAX  
-**Data:** Synthetic online-learning dataset (to be added with the completed project)
 
-## Project overview
+**Status:** Initial dashboard release\
+**Tools:** Power BI Desktop, Power Query, DAX\
+**Dataset:** Synthetic online-learning platform data
 
-This portfolio project will use Power BI to analyze an online learning platform. The goal is to create an interactive report that explores enrollment trends, course and instructor performance, learner engagement, completion outcomes, and acquisition channels.
+## Project Overview
 
-The project will use Power BI only:
-- **Power Query** for data preparation and quality checks
-- **Power BI data model** for table relationships
-- **DAX** for measures and KPIs
-- **Power BI visuals** for interactive reporting
+This project analyzes a synthetic online-learning platform using Power
+BI. It demonstrates data cleaning, data modeling, DAX measures,
+interactive visualizations, and business intelligence reporting.
 
-## Planned report pages
+The report explores enrollment trends, acquisition channels, learner
+engagement, course performance, instructor performance, and data
+quality.
 
-1. **Executive Overview** — enrollment volume, unique learners, amount paid, completion rate, refund-flag rate, and trends.
-2. **Enrollment & Acquisition** — acquisition channels, enrollment status, devices, payment methods, and changes over time.
-3. **Course & Instructor Performance** — course and category comparisons, ratings, and instructor performance.
-4. **Learner Engagement** — learning minutes, lessons completed, quiz attempts, progress, and support tickets.
-5. **Data Quality & Definitions** — data-quality checks, metric definitions, and known limitations.
+## Dashboard Pages
 
-## Business questions
+### 1. Executive Overview
 
-The completed report will investigate questions such as:
+-   Total amount paid and total enrollments
+-   Completion rate and average course rating
+-   Completed enrollments and unique learners
+-   Year slicer
+-   Enrollment trend over time
+-   Enrollment status distribution
+-   Learner engagement versus progress
 
-- How have enrollments changed over time?
-- Which acquisition channels contribute the most enrollments?
-- Which courses have high enrollment volume and high completion rates?
-- How do completion and refund-flag rates vary across channels and categories?
-- How does learner engagement vary by enrollment status?
-- Which instructors and courses perform well when enrollment volume is considered?
-- What data-quality issues could affect the conclusions?
+### 2. Enrollment & Acquisition Analysis
 
-These are questions to investigate, not findings. Results will be added only after they have been calculated and validated in Power BI.
+-   Amount paid by course category
+-   Amount paid by acquisition channel
+-   Enrollment volume by acquisition channel
+-   Refund-flag rate by acquisition channel
+-   Channel-level KPI comparison table
+-   Category and payment method slicers
 
-## Planned repository contents
+### 3. Learner Engagement
 
-As the project progresses, this repository will be updated with:
+-   Total minutes watched
+-   Total lessons completed
+-   Average quiz attempts
+-   Minutes watched by course and acquisition channel
+-   Lessons completed by acquisition channel
+-   Enrollment status distribution
 
-- Source datasets and a data dictionary
-- Power Query cleaning notes
-- Data model and relationship documentation
-- DAX measures and metric definitions
-- Business and analytical questions
-- Screenshots of the completed report
-- The finished Power BI report file, subject to repository size limits
+### 4. Course Performance
 
-**Note:** This initial repository contains project scope and plans only. The datasets, report file, and supporting project assets will be uploaded after the analysis and dashboard are completed.
+-   Total courses and instructors
+-   Average course rating
+-   Top courses by amount paid
+-   Amount paid by category and difficulty
+-   Instructor comparisons by amount paid and rating
 
-## Data and interpretation notes
+### 5. Data Quality & Definitions
 
-- The dataset is intended to be synthetic; findings will not be presented as claims about a real company or real learners.
-- `Amount Paid` will not be described as net revenue unless refund treatment is verified.
-- A refund flag will not be treated as proof that cash was refunded.
-- Missing values will be investigated rather than automatically replaced with zero.
-- Business conclusions will include the relevant denominator, filter context, and limitations.
+-   Total and distinct enrollment ID checks
+-   Duplicate enrollment ID checks
+-   Missing course ID checks
+-   Metric definitions and data limitations
 
-## Project status
+## Business Questions
 
-- [ ] Import and inspect source data in Power Query
-- [ ] Clean data and document decisions
-- [ ] Create and validate the data model
-- [ ] Create and test DAX measures
-- [ ] Build report pages
-- [ ] Validate totals and slicers
-- [ ] Record evidence-backed insights
-- [ ] Add screenshots and final project files
+The report is designed to investigate: - How do enrollment volumes
+change over time? - Which acquisition channels contribute the most
+enrollments and amount paid? - Which course categories and courses have
+the highest recorded amount paid? - How do completion and refund-flag
+rates vary by acquisition channel? - How is learner engagement
+associated with learning progress? - How do course and instructor
+performance compare? - What data-quality limitations should be
+considered before drawing conclusions?
 
-## About
+## Tools & Techniques
 
-This repository documents a Power BI portfolio project focused on practical business intelligence, data modeling, and analytical reporting.
+-   **Power Query:** data preparation, type checking, text
+    standardization, and data-quality checks
+-   **Data modeling:** relationships between relevant tables and a date
+    table
+-   **DAX:** measures for enrollment volume, distinct learners, amount
+    paid, completion rate, ratings, engagement, and refund-flag rate
+-   **Power BI visuals:** KPI cards, line charts, bar and column charts,
+    a doughnut chart, a scatter plot, slicers, and a comparison table
+
+## Data & Interpretation Notes
+
+-   The dataset is synthetic and does not represent an actual learning
+    platform.
+-   `Amount Paid` is not necessarily net revenue.
+-   A refund flag does not independently establish that a cash refund
+    occurred.
+-   Engagement and progress associations do not establish causation.
+-   Results should be interpreted in the context of report filters,
+    metric definitions, and data quality.
+-   Validate reported figures against the source data and data model
+    before using them for business decisions.
+
+## Repository Contents
+
+The repository currently includes project documentation and a `Dataset/`
+folder. Before publishing Version 1.0, include the final Power BI report
+(`.pbix`), relevant source datasets, and report screenshots where
+appropriate.
+
+Suggested structure:
+
+``` text
+Online-Learning-Platform-Analytics/
+├── Dataset/
+├── Screenshots/
+├── Online-Learning-Platform-Analytics.pbix
+└── README.md
+```
+
+Adjust the structure above to match the actual files committed to the
+repository. Do not include private, confidential, or licensed data
+without permission.
+
+## How to View the Report
+
+1.  Download the `.pbix` file from this repository once it has been
+    uploaded.
+2.  Open it in Power BI Desktop.
+3.  If prompted, point the queries to the included source data files and
+    refresh the data.
+4.  Navigate through the five report pages and interact with the
+    slicers.
+
+## Project Status
+
+The five report pages have been built in Power BI Desktop. Before
+calling this a complete Version 1.0 release, verify that the `.pbix`
+file and intended source assets are committed to GitHub and that key
+totals and slicers have been tested.
+
+## Author
+
+**Chandan B**\
+GitHub: https://github.com/chandanB47
