@@ -1,0 +1,121 @@
+CourseID,CourseName,Category,Difficulty,DurationHours,ListPrice,InstructorID,CourseFormat,CourseLanguage,LaunchDate,IsCertificateAvailable,CourseStatus
+C0001,Python for Data Analysis,Data,Beginner,5,4364.41,I017,Instructor-led,Telugu,2020-09-18,Yes,Active
+C0002,SQL Foundations,Data,Beginner,45,2506.45,I010,Self-paced,English,2022-05-31,No,Active
+C0003,Power BI Dashboards,Data,Beginner,20,6752.19,I025,Instructor-led,Hindi,2022-05-27,No,Active
+C0004,Statistics Essentials,Data,Beginner,7,904.69,I014,Instructor-led,Hindi,2020-08-20,No,Active
+C0005,Advanced DAX,Data,Beginner,40,1104.48,I023,Self-paced,Kannada,2024-02-09,No,Active
+C0006,Data Storytelling,Data,Intermediate,31,2533.81,I009,Instructor-led,Hindi,2021-06-07,Yes,Active
+C0007,Data Modeling,Data,Intermediate,57,3605.87,I004,Hybrid,English,2020-11-04,Yes,Active
+C0008,Advanced SQL Analytics,Data,Beginner,11,4079.38,I014,Instructor-led,Telugu,2022-09-22,No,Active
+C0009,Excel for Analysts,Data,Advanced,53,3262.76,I010,Instructor-led,Telugu,2023-03-03,Yes,Active
+C0010,Exploratory Data Analysis,Data,Beginner,9,4334.29,I007,Live cohort,Hindi,2024-07-06,Yes,Active
+C0011,Data Cleaning,Data,Advanced,45,10362.42,I004,Self-paced,Kannada,2021-03-15,Yes,Active
+C0012,Business Intelligence,Data,Intermediate,54,4570.68,I004,Instructor-led,English,2021-08-24,Yes,Active
+C0013,Data Visualization,Data,Intermediate,54,1377.44,I001,Self-paced,Tamil,2020-10-28,Yes,Active
+C0014,Analytics Engineering,Data,Intermediate,62,2302.67,I026,Instructor-led,Kannada,2024-06-27,No,Active
+C0015,Data Quality,Data,Intermediate,48,7641.86,I002,Self-paced,English,2021-11-20,Yes,Active
+C0016,Forecasting for Analysts,Data,Beginner,7,3593.57,I020,Live cohort,Tamil,2025-03-14,No,Active
+C0017,A/B Testing,Data,Intermediate,17,4057.76,I016,Live cohort,Tamil,2021-10-21,No,Active
+C0018,Customer Analytics,Data,Beginner,5,3784.54,I030,Self-paced,Tamil,2022-09-14,No,Active
+C0019,Financial Analytics,Data,Beginner,21,2074.58,I022,Hybrid,Kannada,2020-03-04,No,Archived
+C0020,Marketing Analytics, ,Advanced,72,3322.91,I027,Live cohort,Hindi,2024-09-17,No,Active
+C0021,Machine Learning Basics,AI,Beginner,17,5916.45,I006,Instructor-led,Tamil,2020-01-15,Yes,Active
+C0022,Prompt Engineering,AI,Beginner,18,7836.61,I018,Instructor-led,English,2021-01-27,Yes,Active
+C0023,Deep Learning Intro,AI,Intermediate,58,11158.38,I008,Self-paced,Kannada,2023-12-10,No,Active
+C0024,Responsible AI,AI,Intermediate,55,3054.0,I016,Live cohort,Hindi,2023-11-11,Yes,Active
+C0025,Generative AI Applications,AI,Advanced,89,4341.99,I002,Live cohort,Tamil,2024-02-05,No,Active
+C0026,Natural Language Processing, ,Beginner,35,6519.23,I016,Live cohort,Hindi,2024-11-19,No,Active
+C0027,Computer Vision,AI,Intermediate,40,1070.91,I022,Live cohort,Hindi,2020-06-15,No,Active
+C0028,Model Evaluation,AI,Advanced,36,1476.95,I012,Instructor-led,Hindi,2020-05-15,No,Active
+C0029,AI Product Strategy,AI,Beginner,39,3153.24,I012,Self-paced,Kannada,2025-08-28,No,Active
+C0030,Feature Engineering,AI,Advanced,75,10921.93,I007,Live cohort,Tamil,2024-06-06,Yes,Active
+C0031,Time Series Modeling,AI,Intermediate,49,5423.86,I011,Live cohort,Hindi,2025-03-31,Yes,Active
+C0032,Recommendation Systems,AI,Intermediate,39,1066.5,I025,Self-paced,Kannada,2020-04-23,Yes,Archived
+C0033,MLOps Foundations,AI,Intermediate,19,5981.92,I015,Hybrid,Tamil,2022-05-19,Yes,Active
+C0034,LLM Evaluation,AI,Intermediate,59,4650.88,I013,Self-paced,Telugu,2024-08-03,Yes,Active
+C0035,AI Governance,AI,Beginner,41,6277.78,I022,Hybrid,Hindi,2020-02-25,No,Active
+C0036,Business Communication,Business,Beginner,19,8385.47,I010,Instructor-led,English,2020-10-10,Yes,Active
+C0037,Project Management,Business,Beginner,19,7560.38,I017,Hybrid,Tamil,2021-08-15,Yes,Active
+C0038,Product Analytics,Business,Intermediate,12,3864.08,I018,Self-paced,Kannada,2023-05-28,Yes,Archived
+C0039,Agile Delivery,Business,Beginner,35,2101.89,I017,Self-paced,Tamil,2020-09-05,Yes,Under Review
+C0040,Strategic Thinking,Business,Beginner,21,8318.47,I011,Self-paced,Hindi,2024-09-11,Yes,Under Review
+C0041,Financial Modeling,Business,Beginner,7,1427.24,I020,Hybrid,English,2021-02-04,Yes,Active
+C0042,Operations Analytics,Business,Intermediate,45,6907.64,I010,Instructor-led,Kannada,2023-06-18,No,Active
+C0043,Stakeholder Management,Business,Beginner,35,6256.34,I006,Instructor-led,Telugu,2021-11-06,No,Active
+C0044,Customer Success,Business,Beginner,27,1481.0,I030,Self-paced,Telugu,2022-10-09,Yes,Active
+C0045,Business Process Improvement,Business,Beginner,7,2577.76,I016,Live cohort,English,2020-01-27,No,Active
+C0046,Leadership Essentials,Business,Intermediate,47,6851.19,I018,Instructor-led,Hindi,2025-05-10,Yes,Active
+C0047,Market Research, ,Intermediate,26,3469.82,I027,Self-paced,Hindi,2020-11-27,No,Active
+C0048,Sales Operations,Business,Intermediate,61,1911.76,I018,Instructor-led,Telugu,2020-05-17,Yes,Active
+C0049,Risk Management,Business,Beginner,10,4266.91,I028,Instructor-led,English,2025-04-30,No,Active
+C0050,Decision Science,Business,Beginner,34,4104.02,I012,Self-paced,Tamil,2024-05-04,Yes,Active
+C0051,UX Design Fundamentals,Design,Beginner,10,4725.81,I027,Self-paced,Tamil,2020-08-23,Yes,Active
+C0052,Visual Design Systems,Design,Intermediate,39,6314.61,I008,Self-paced,Telugu,2023-03-04,No,Active
+C0053,Research Methods,Design,Intermediate,22,10945.42,I021,Self-paced,Hindi,2022-02-28,Yes,Active
+C0054,Dashboard UX,Design,Beginner,13,1922.79,I011,Instructor-led,English,2020-01-22,No,Active
+C0055,Information Architecture,Design,Advanced,59,6748.8,I005,Instructor-led,Tamil,2020-04-25,Yes,Active
+C0056,Accessibility Design,Design,Beginner,11,6104.99,I002,Hybrid,Tamil,2020-03-12,No,Active
+C0057,Prototyping,Design,Beginner,28,2049.44,I018,Instructor-led,Kannada,2020-07-03,Yes,Active
+C0058,Design Thinking,Design,Beginner,10,4783.79,I004,Hybrid,Kannada,2020-12-09,Yes,Active
+C0059,Service Design,Design,Intermediate,54,4187.03,I007,Instructor-led,Tamil,2022-04-26,No,Active
+C0060,Data Visualization Design,Design,Intermediate,38,1046.49,I005,Hybrid,Tamil,2020-05-03,Yes,Under Review
+C0061,Cloud Fundamentals,Technology,Intermediate,41,4365.98,I018,Instructor-led,Hindi,2021-04-27,Yes,Active
+C0062,Cybersecurity Basics,Technology,Advanced,37,10393.07,I008,Live cohort,Telugu,2025-06-15,No,Active
+C0063,Python Automation,Technology,Beginner,12,1015.0,I007,Instructor-led,Telugu,2021-05-09,Yes,Active
+C0064,Web Development Basics,Technology,Intermediate,36,1874.68,I026,Instructor-led,English,2021-06-29,No,Active
+C0065,Git and GitHub,Technology,Advanced,40,3340.82,I029,Live cohort,English,2023-05-14,No,Active
+C0066,API Fundamentals,Technology,Intermediate,24,6226.76,I016,Hybrid,Hindi,2025-06-11,Yes,Under Review
+C0067,Database Design,Technology,Beginner,42,4445.25,I011,Hybrid,Telugu,2024-10-02,No,Active
+C0068,DevOps Foundations,Technology,Advanced,24,4355.38,I008,Live cohort,Hindi,2022-09-28,Yes,Active
+C0069,Linux Essentials,Technology,Beginner,37,4693.54,I029,Self-paced,Hindi,2025-07-19,No,Active
+C0070,Data Engineering Basics,Technology,Intermediate,26,2555.14,I009,Hybrid,Telugu,2024-09-28,No,Active
+C0071,Cloud Data Warehousing,Technology,Beginner,26,4921.21,I021,Self-paced,Kannada,2023-04-22,No,Active
+C0072,Privacy Engineering,Technology,Intermediate,60,1630.39,I014,Instructor-led,English,2025-07-08,No,Active
+C0073,Network Fundamentals,Technology,Beginner,23,4055.47,I028,Instructor-led,English,2023-12-16,Yes,Active
+C0074,Software Testing,Technology,Beginner,34,3340.03,I028,Instructor-led,Hindi,2021-12-16,No,Active
+C0075,Automation Testing,Technology,Intermediate,56,3888.5,I004,Self-paced,Telugu,2024-03-02,No,Active
+C0076,Data Specialization 76,Data,Beginner,46,9627.34,I017,Self-paced,English,2022-07-14,No,Archived
+C0077,AI Specialization 77,AI,Intermediate,22,2092.84,I009,Live cohort,Hindi,2025-06-04,Yes,Active
+C0078,Technology Specialization 78,Technology,Beginner,41,6206.56,I030,Live cohort,Kannada,2025-05-16,No,Active
+C0079,Business Specialization 79,Business,Advanced,27,4760.04,I021,Self-paced,Kannada,2021-08-13,No,Active
+C0080,Business Specialization 80,Business,Beginner,8,6761.45,I017,Self-paced,Kannada,2021-11-10,Yes,Active
+C0081,Technology Specialization 81,Technology,Intermediate,57,7733.92,I013,Self-paced,Telugu,2023-10-12,Yes,Archived
+C0082,Technology Specialization 82,Technology,Beginner,48,7044.56,I005,Live cohort,English,2023-03-23,Yes,Active
+C0083,Technology Specialization 83,Technology,Intermediate,16,7643.63,I028,Instructor-led,Kannada,2021-07-13,No,Active
+C0084,Design Specialization 84,Design,Advanced,58,8633.64,I007,Hybrid,English,2023-02-03,Yes,Active
+C0085,Data Specialization 85,Data,Advanced,30,9256.47,I003,Hybrid,Hindi,2024-08-16,No,Archived
+C0086,AI Specialization 86,AI,Advanced,48,4064.43,I006,Self-paced,Telugu,2025-01-14,Yes,Active
+C0087,Technology Specialization 87,Technology,Advanced,10,3104.07,I007,Instructor-led,Tamil,2021-02-25,No,Archived
+C0088,Data Specialization 88,Data,Advanced,27,1259.96,I014,Instructor-led,Telugu,2023-12-25,No,Archived
+C0089,Technology Specialization 89,Technology,Intermediate,42,9126.12,I029,Instructor-led,English,2023-09-23,No,Active
+C0090,Technology Specialization 90,Technology,Intermediate,17,3170.0,I028,Instructor-led,Hindi,2020-04-09,No,Active
+C0091,Design Specialization 91,Design,Intermediate,13,7890.08,I028,Live cohort,Hindi,2024-02-29,Yes,Archived
+C0092,Data Specialization 92,Data,Advanced,15,4042.76,I011,Self-paced,Tamil,2020-12-07,No,Archived
+C0093,Design Specialization 93,Design,Intermediate,60,5714.01,I015,Instructor-led,Tamil,2023-10-18,No,Active
+C0094,AI Specialization 94,AI,Beginner,19,6736.12,I028,Hybrid,Tamil,2025-06-24,No,Archived
+C0095,Data Specialization 95,Data,Advanced,11,2137.18,I014,Self-paced,Kannada,2024-03-18,No,Archived
+C0096,Data Specialization 96,Data,Intermediate,57,7047.85,I004,Hybrid,Hindi,2023-10-12,Yes,Active
+C0097,Business Specialization 97,Business,Beginner,25,6236.16,I015,Hybrid,Kannada,2024-08-24,Yes,Archived
+C0098,Technology Specialization 98,Technology,Intermediate,45,4337.07,I012,Live cohort,Telugu,2021-12-19,Yes,Active
+C0099,AI Specialization 99,AI,Beginner,54,2964.03,I020,Hybrid,Tamil,2021-02-04,Yes,Active
+C0100,Business Specialization 100,Business,Advanced,41,2953.02,I002,Live cohort,Tamil,2021-06-28,No,Archived
+C0101,Design Specialization 101,Design,Beginner,47,9938.74,I009,Hybrid,Telugu,2022-04-14,Yes,Active
+C0102,Data Specialization 102,Data,Advanced,23,1477.57,I011,Self-paced,Telugu,2024-02-11,No,Active
+C0103,AI Specialization 103,AI,Beginner,13,1824.5,I008,Self-paced,Kannada,2022-09-08,Yes,Archived
+C0104,Technology Specialization 104,Technology,Advanced,60,2906.36,I029,Self-paced,English,2024-08-16,Yes,Active
+C0105,Technology Specialization 105, ,Beginner,25,2418.19,I011,Self-paced,English,2021-08-04,No,Archived
+C0106,Business Specialization 106,Business,Advanced,53,5056.97,I010,Live cohort,Tamil,2020-02-04,Yes,Active
+C0107,Data Specialization 107,Data,Beginner,29,8502.52,I018,Instructor-led,Kannada,2025-02-15,No,Active
+C0108,Technology Specialization 108,Technology,Intermediate,31,1040.79,I016,Live cohort,Hindi,2020-07-30,Yes,Archived
+C0109,AI Specialization 109,AI,Intermediate,22,5941.0,I009,Hybrid,English,2020-05-18,Yes,Archived
+C0110,Technology Specialization 110,Technology,Intermediate,16,9437.95,I018,Hybrid,Telugu,2025-08-24,No,Active
+C0111,Business Specialization 111,Business,Beginner,30,5356.17,I006,Instructor-led,Hindi,2024-09-29,Yes,Archived
+C0112,Design Specialization 112, ,Beginner,15,8313.79,I007,Instructor-led,Hindi,2020-06-29,No,Active
+C0113,Design Specialization 113,Design,Beginner,40,2187.87,I027,Instructor-led,Telugu,2022-06-15,No,Active
+C0114,Business Specialization 114,Business,Advanced,37,9222.85,I030,Instructor-led,Telugu,2020-04-22,No,Active
+C0115,Design Specialization 115,Design,Beginner,42,2797.59,I008,Self-paced,Tamil,2020-01-16,No,Active
+C0116,Business Specialization 116,Business,Beginner,20,6291.54,I011,Live cohort,Tamil,2024-05-03,No,Active
+C0117,Design Specialization 117,Design,Intermediate,55,2450.37,I022,Instructor-led,Telugu,2022-06-23,No,Archived
+C0118,Business Specialization 118,Business,Advanced,17,8791.6,I009,Live cohort,English,2021-02-19,Yes,Archived
+C0119,AI Specialization 119,AI,Advanced,56,7412.33,I010,Instructor-led,English,2022-10-19,No,Archived
+C0120,Data Specialization 120,Data,Advanced,33,4604.0,I013,Hybrid,Tamil,2025-09-01,No,Active
