@@ -98,7 +98,7 @@ considered before drawing conclusions?
 ## Repository Contents
 
 The repository currently includes project documentation and a `Dataset/`
-folder. Before publishing Version 1.0, include the final Power BI report
+folder. Before publishing Version 1.0.0, include the final Power BI report
 (`.pbix`), relevant source datasets, and report screenshots where
 appropriate.
 
