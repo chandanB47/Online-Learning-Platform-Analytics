@@ -129,7 +129,7 @@ without permission.
 ## Project Status
 
 The five report pages have been built in Power BI Desktop. Before
-calling this a complete Version 1.0 release, verify that the `.pbix`
+calling this a complete Version 1.0 releases, verify that the `.pbix`
 file and intended source assets are committed to GitHub and that key
 totals and slicers have been tested.
 
